@@ -3,4 +3,4 @@ it is crucial in understanding practical usage of technologies available to data
 
 to use:
 you must have python and vscode installed with the relevant libraries. 
-the dataset which is available in this repo.
+the amazon product review data set.
